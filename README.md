@@ -1,5 +1,7 @@
 # PcTF_kinetics
 Modeling interactions of synthetic chromatin proteins with histone tail ligands
+Author: Michael R. Caplan, Arizona State University
+Posted to Github with permission from the Author by: Karmella A. Haynes, Arizona State university
 
 Initial conditions were written to describe the initial amount of bound PcTF (1 x 10-6 M) and bound Pc2TF (0.5 x 10-6 M) to simulate saturated ligands – each Pc2TF is bound to two ligands, thus half as many Pc2TF molecules would saturate the surface. 
 
